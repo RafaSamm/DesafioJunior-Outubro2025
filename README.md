@@ -43,4 +43,4 @@ Este projeto é uma **API RESTful** desenvolvida em **Java 17+** com **Spring Bo
 
 ```bash
 git clone https://github.com/RafaSamm/DesafioJunior-Outubro2025.git
-cd sistema-gestao-projetos
+cd DesafioJunior-Outubro2025
