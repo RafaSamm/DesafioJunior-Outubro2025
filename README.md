@@ -42,5 +42,5 @@ Este projeto é uma **API RESTful** desenvolvida em **Java 17+** com **Spring Bo
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/sistema-gestao-projetos.git
+git clone https://github.com/RafaSamm/DesafioJunior-Outubro2025.git
 cd sistema-gestao-projetos
