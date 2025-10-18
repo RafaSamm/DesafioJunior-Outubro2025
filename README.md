@@ -44,3 +44,34 @@ Este projeto é uma **API RESTful** desenvolvida em **Java 17+** com **Spring Bo
 ```bash
 git clone https://github.com/RafaSamm/DesafioJunior-Outubro2025.git
 cd DesafioJunior-Outubro2025
+
+```
+2. Execute o projeto com maven:
+
+```bash
+mvn clean install
+mvn spring-boot:run
+```
+
+## ⬇️Endpoints Principais
+
+| Método | Endpoint                                                | Descrição                                                          |
+| ------ | --------------------                                    | ------------------------------------------------------------------ |
+| POST   | `/projects`                                             | Criar projeto                                                      |
+| GET    | `/projects`                                             | Listar projetos (com paginação opcional)                           |
+| POST   | `/tasks`                                                | Criar tarefa vinculada a um projeto                                |
+| GET    | `tasks?projectId=?&status=?&priority=?&page=?&size=?`  | Listar tarefas com filtros opcionais (status, prioridade, projeto) |
+| PUT    | `/tasks/{id}/status`                                    | Atualizar status da tarefa                                         |
+| DELETE | `/tasks/{id}`                                           | Deletar tarefa                                                     |
+
+
+
+## 🧪 Testes
+
+```bash
+mvn test
+```
+Unitários: Services com repositórios mockados
+
+
+
