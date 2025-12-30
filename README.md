@@ -2,11 +2,10 @@
 
 Este projeto é uma **API RESTful** desenvolvida em **Java 17+** com **Spring Boot 3+**, que permite gerenciar projetos e suas tarefas (demandas) de forma simples. Ele é voltado para times de desenvolvimento acompanharem status, prioridades e datas de entrega de tarefas.
 
-OBS: Projeto revisado, analisado e comentado em vídeo no Youtube: https://youtu.be/PQNc3m0aDnw?si=cO1kxGiiij0QP_KH 
-Por Matheus Leandro Ferreira.
-
-Github: https://github.com/matheuslf
-Linkedin: https://www.linkedin.com/in/matheus-leandro-ferreira/
+OBS: Projeto revisado, analisado e comentado em vídeo. 
+- Youtube: https://youtu.be/PQNc3m0aDnw?si=cO1kxGiiij0QP_KH 
+- Github: https://github.com/matheuslf
+- Linkedin: https://www.linkedin.com/in/matheus-leandro-ferreira/
 
 ---
 
